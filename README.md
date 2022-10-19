@@ -1,4 +1,4 @@
-<p align="center">
+ < p  hizalama = "merkez" >
 <a href="https://github.com/HnYRobo/HNY-SERVER"><img src="https://github-readme-stats.vercel.app/api/pin?username=HNYROBO&show_icons=true&theme=dracula&hide_border=true&repo=HNY-SERVER"></a>
 </p>
 
